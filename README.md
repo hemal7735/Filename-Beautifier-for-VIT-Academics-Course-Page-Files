@@ -15,4 +15,5 @@ Whether it is a .pdf or .ppt or anything, every VITian faces this problem.
 
 ## How to use
 
+[Download This Application!](Direct Usage/Filename Beautifier.exe)
 
