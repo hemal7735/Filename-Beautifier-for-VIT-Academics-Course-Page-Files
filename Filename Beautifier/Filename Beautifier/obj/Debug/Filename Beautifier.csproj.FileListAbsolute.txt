@@ -1,0 +1,6 @@
+c:\users\hemal-pc\documents\visual studio 2013\Projects\Filename Beautifier\Filename Beautifier\bin\Debug\Filename Beautifier.exe.config
+c:\users\hemal-pc\documents\visual studio 2013\Projects\Filename Beautifier\Filename Beautifier\bin\Debug\Filename Beautifier.exe
+c:\users\hemal-pc\documents\visual studio 2013\Projects\Filename Beautifier\Filename Beautifier\bin\Debug\Filename Beautifier.pdb
+c:\users\hemal-pc\documents\visual studio 2013\Projects\Filename Beautifier\Filename Beautifier\obj\Debug\Filename Beautifier.csprojResolveAssemblyReference.cache
+c:\users\hemal-pc\documents\visual studio 2013\Projects\Filename Beautifier\Filename Beautifier\obj\Debug\Filename Beautifier.exe
+c:\users\hemal-pc\documents\visual studio 2013\Projects\Filename Beautifier\Filename Beautifier\obj\Debug\Filename Beautifier.pdb
