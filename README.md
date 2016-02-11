@@ -19,3 +19,5 @@ Whether it is a .pdf or .ppt or anything, every VITian faces this problem.
 2. Click on **View Raw**. This will save the ***Filename Beautifier.exe*** to your Computer.
 3. Copy that file to the directory where you put all your Course Page Files.
 4. Double Click on ***Filename Beautifier.exe*** and perform your operations.
+
+  ***Warning:*** Don't run this application from any other Folder other than Folder containing your Course Page Files, it may rename      other files having filenames just like Course page files. 
