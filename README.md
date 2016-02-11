@@ -15,5 +15,7 @@ Whether it is a .pdf or .ppt or anything, every VITian faces this problem.
 
 ## How to use
 
-[Download This Application!](Direct Usage/Filename Beautifier.exe)
-
+1. [Go here...](Direct Usage/Filename Beautifier.exe)
+2. Click on **View Raw**. This will save the ***Filename Beautifier.exe*** to your Computer.
+3. Copy that file to the directory where you put all your Course Page Files.
+4. Double Click on ***Filename Beautifier.exe*** and perform your operations.
